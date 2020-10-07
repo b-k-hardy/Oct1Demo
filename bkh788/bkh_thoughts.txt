@@ -1,0 +1,6 @@
+I initially had to use git in a lab during my sophomore year (1.5 years ago), but I didn't know
+what to do exactly and I eventually just used the git website to click and drag files instead of
+using the terminal. I'm excited to have gotten a lecture on git, and I feel much more comfortable
+actually doing things from my terminal. It makes me much faster after I've memorized the commands.
+The only hurdle I've hit so far was a merge conflict when I did my first pull following my group member's
+initial push. It was confusing, but I got it resolved.
